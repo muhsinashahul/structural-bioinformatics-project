@@ -7,8 +7,9 @@ This project focuses on identifying potential inhibitors of Monkeypox virus DNA 
 The study aims to accelerate antiviral drug discovery by evaluating already approved compounds for potential activity against Monkeypox virus replication machinery.
 
 ### Objectives
-Select FDA-approved drug molecules for screening
-Retrieve and prepare the Monkeypox DNA polymerase structure
+
+- Select FDA-approved drug molecules for screening
+- Retrieve and prepare the Monkeypox DNA polymerase structure
 Prepare ligand molecules for docking
 Perform molecular docking analysis
 Analyze docking scores and binding interactions
