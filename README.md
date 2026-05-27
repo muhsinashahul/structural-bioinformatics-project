@@ -52,7 +52,7 @@ Favorable ADMET properties
 The stability of the protein-ligand complex was evaluated
 Hellped analyze the dynamic behavior and interaction stability of shortlisted drug candidates with Monkeypox DNA polymerase over time.
 
-## Tools and Software Used
+### Tools and Software Used
 Schrodinger -	Molecular docking and simulation
 PyMOL -	Visualization and interaction analysis
 SwissADME -	Drug-likeness and pharmacokinetic analysis
