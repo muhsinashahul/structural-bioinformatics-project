@@ -10,17 +10,17 @@ The study aims to accelerate antiviral drug discovery by evaluating already appr
 
 - Select FDA-approved drug molecules for screening
 - Retrieve and prepare the Monkeypox DNA polymerase structure
-Prepare ligand molecules for docking
-Perform molecular docking analysis
-Analyze docking scores and binding interactions
-Evaluate pharmacokinetic and toxicity properties using ADMET analysis
-Identify top candidate molecules for potential repurposing
+- Prepare ligand molecules for docking
+- Perform molecular docking analysis
+- Analyze docking scores and binding interactions
+- Evaluate pharmacokinetic and toxicity properties using ADMET analysis
+- Identify top candidate molecules for potential repurposing
 
 
 ### Workflow
 1. Target Structure Retrieval
-Retrieved Monkeypox DNA polymerase structure from public protein databases
-Verified structural integrity and suitability for docking studies
+- Retrieved Monkeypox DNA polymerase structure from public protein databases
+- Verified structural integrity and suitability for docking studies
 2. Protein Preparation
 Removed water molecules and unwanted chains
 Added hydrogens and optimized the structure
