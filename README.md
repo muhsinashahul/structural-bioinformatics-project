@@ -37,12 +37,14 @@ The study aims to accelerate antiviral drug discovery by evaluating already appr
 - Visualized protein–ligand interactions using PyMOL
 - Identified hydrogen bonds, hydrophobic interactions, and key residues
 6. ADMET Analysis
+  
 Evaluated:
 - Absorption
 - Distribution
 - Metabolism
 - Excretion
 - Toxicity
+  
 Used SwissADME and ADMETlab for pharmacokinetic profiling
 7. Candidate Selection
 Shortlisted compounds showing:
@@ -51,7 +53,7 @@ Shortlisted compounds showing:
 - Favorable ADMET properties
 8. Molecular Dynamics Simulation
 - The stability of the protein-ligand complex was evaluated
-- Hellped analyze the dynamic behavior and interaction stability of shortlisted drug candidates with Monkeypox DNA polymerase over time.
+- Helped analyze the dynamic behavior and interaction stability of shortlisted drug candidates with Monkeypox DNA polymerase over time.
 
 ### Tools and Software Used
 - Schrodinger -	Molecular docking and simulation
